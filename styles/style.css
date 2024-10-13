@@ -52,3 +52,14 @@ nav li > a, button > a{
     width: 170px;
     margin-left: 45%;
 }
+footer{
+    border-radius: 16px;
+    background: rgba(18, 31, 61, 0.03);
+    width: 99%;
+    margin-top: 10px;
+    margin-left: 0.5%;
+    align-items: center;
+    padding-left: 5%;
+    display: flex;
+    gap: 52%;
+}
